@@ -52,6 +52,41 @@ Which loan statuses (Fully Paid, Charged Off, Current) dominate the portfolio?
 # POWER BI DETAILS
 <img width="1430" height="807" alt="Dashboard 3" src="https://github.com/user-attachments/assets/7bab56f2-2bd8-406a-b331-3fbd9d3295db" />
 
+<img width="1430" height="807" alt="Dashboard 3" src="https://github.com/user-attachments/assets/4891e537-cdc5-4a44-b7b4-9adcf569f4c2" />
+
+# Process
+1. Data Extraction(SQL)
+
+Collected raw loan data from SQL database tables.
+Queried loan applications,funded amounts,repayments,terms,and borrower details.
+Performed initial cleaning using SQL(removing nulls,standardizing formats,filtering invalid records).
+
+2. Data Cleaning & Transformation
+Cleaned categorical fields (purpose,home ownership,loan grade).
+Converted date fields (issue_date) into Year,Month,and MTD/MOM metrics.
+Created calculated fields for:
+
+Good vs Bad Loan
+Loan Status
+Total Funded & Received Amounts
+Interest Rate & DTI categories
+Data Modeling
+
+3.Imported SQL tables into Power BI.
+Built relationships between loan,customer,and status data.
+Defined DAX measures for KPIs:
+
+Total Loan Applications
+
+Total Funded Amount
+
+Total Received Amount
+
+MTD & MOM calculations
+
+Average Interest Rate & DTI
+
+
 
 
 
