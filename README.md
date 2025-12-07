@@ -34,6 +34,9 @@ Which loan statuses (Fully Paid, Charged Off, Current) dominate the portfolio?
 <img width="813" height="788" alt="Screenshot 2025-12-07 100550" src="https://github.com/user-attachments/assets/6e965bf2-6abd-4792-a664-78307f0640ca" />
 <img width="817" height="717" alt="Screenshot 2025-12-07 100606" src="https://github.com/user-attachments/assets/75cfcc7c-5dd9-43dc-8b42-e45906ecd091" />
 <img width="813" height="397" alt="Screenshot 2025-12-07 100623" src="https://github.com/user-attachments/assets/102ab2de-827d-4d8e-8143-f77894f01de6" />
+# POWER BI DASHBOARD SUMMARY
+<img width="1433" height="805" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f26515ed-c4aa-4906-ad96-0bd177364a1e" />
+
 
 
 
