@@ -1,2 +1,3 @@
-# Bank-Loan-Report
-This project focuses on analyzing bank loan data to understand customer profiles, loan approval trends, repayment behavior, and overall loan performance. SQL is used for data cleaning and transformation, while Power BI is used to create an interactive dashboard that highlights key loan metrics.
+# Bank Loan Analysis Report (Power BI + SQL)
+# Project Objective
+The objective of this Bank Loan Report Dashboard is to analyze loan applications, funded amounts,repayments,and borrower risk by leveraging SQL for data preparation and Power BI for interactive visualization.The dashboard helps financial teams monitor good vs. bad loan distribution, track month-to-month performance,understand borrower profiles,and identify key factors influencing loan outcomes.This enables data-driven decision-making to improve loan approval strategies,reduce defaults,and enhance portfolio performance.
