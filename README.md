@@ -67,9 +67,13 @@ Converted date fields (issue_date) into Year,Month,and MTD/MOM metrics.
 Created calculated fields for:
 
 Good vs Bad Loan
+
 Loan Status
+
 Total Funded & Received Amounts
+
 Interest Rate & DTI categories
+
 Data Modeling
 
 3.Imported SQL tables into Power BI.
@@ -85,6 +89,24 @@ Total Received Amount
 MTD & MOM calculations
 
 Average Interest Rate & DTI
+
+4.Dashboard Design
+
+Built three pages: Summary,Overview,Details.
+
+Applied consistent color themes and layout.
+
+Ensured drill-down filters and interactive visuals.
+
+Optimized for readability and decision-making.
+
+5.Insight Generation
+
+Identified trends in applications,funding,risk levels,and borrower demographics.
+
+Highlighted high-risk categories(term, grade, loan purpose).
+
+Summarized key findings for business decisions.
 
 
 
