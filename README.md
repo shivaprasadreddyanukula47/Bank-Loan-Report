@@ -35,8 +35,26 @@ Which loan statuses (Fully Paid, Charged Off, Current) dominate the portfolio?
 <img width="817" height="717" alt="Screenshot 2025-12-07 100606" src="https://github.com/user-attachments/assets/75cfcc7c-5dd9-43dc-8b42-e45906ecd091" />
 <img width="813" height="397" alt="Screenshot 2025-12-07 100623" src="https://github.com/user-attachments/assets/102ab2de-827d-4d8e-8143-f77894f01de6" />
 
-# POWER BI DASHBOARD SUMMARY
+# POWER BI SUMMARY  DASHBOARD
 <img width="1433" height="805" alt="Dashboard 1" src="https://github.com/user-attachments/assets/f26515ed-c4aa-4906-ad96-0bd177364a1e" />
+
+# SQL OVERVIEW INSIGHTS
+<img width="842" height="576" alt="Screenshot 2025-12-07 101118" src="https://github.com/user-attachments/assets/daa6e615-bb03-4990-853f-e745ef5169aa" />
+<img width="461" height="207" alt="Screenshot 2025-12-07 101132" src="https://github.com/user-attachments/assets/b1cad711-1f47-49c6-97a4-9ac9e4adaa51" />
+<img width="712" height="676" alt="Screenshot 2025-12-07 101149" src="https://github.com/user-attachments/assets/b5619e4b-d3c4-45dd-8710-e7089a1316ee" />
+<img width="773" height="322" alt="Screenshot 2025-12-07 101201" src="https://github.com/user-attachments/assets/bf30bad8-48cf-4ddc-96ca-dddcc7ae8659" />
+<img width="806" height="518" alt="Screenshot 2025-12-07 101220" src="https://github.com/user-attachments/assets/0c632336-5342-43bc-88b2-c12953fff4f9" />
+<img width="678" height="539" alt="Screenshot 2025-12-07 101234" src="https://github.com/user-attachments/assets/19d8ca13-9605-497a-93cc-6e101e794595" />
+
+# POWER BI OVERVIEW DASHBORAD
+<img width="1432" height="803" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7d65c7e5-e4fd-49ed-91ea-3fc4e6fff7b9" />
+
+
+
+
+
+
+
 
 
 
