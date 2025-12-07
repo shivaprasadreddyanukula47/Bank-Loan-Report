@@ -27,16 +27,5 @@ What is the distribution of loans by term (36 vs 60 months)?
 
 Which loan statuses (Fully Paid, Charged Off, Current) dominate the portfolio?
 # SQL SUMMARY INSIGHTS
-BANK LOAN REPORT | SUMMARY
-KPI’s:
--- Total Loan Applications
-SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
-
-MTD Loan Applications
-SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
-WHERE MONTH(issue_date) = 12
-
-PMTD Loan Applications
-SELECT COUNT(id) AS Total_Applications FROM bank_loan_data
-WHERE MONTH(issue_date)
+<img width="828" height="687" alt="Screenshot 2025-12-07 095801" src="https://github.com/user-attachments/assets/1e325fd6-4c3b-48ea-a001-96671611de9b" />
 
