@@ -107,6 +107,8 @@ Identified trends in applications,funding,risk levels,and borrower demographics.
 Highlighted high-risk categories(term, grade, loan purpose).
 
 Summarized key findings for business decisions.
+# FINAL SUMMARY
+This project delivers a clear analysis of loan applications,funding,repayments,and borrower risk using SQL and Power BI.The dashboard highlights key KPIs,trends,and loan performance insights,helping identify good vs bad loans and supporting better financial decision-making.
 
 
 
