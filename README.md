@@ -8,13 +8,22 @@ The objective of this Bank Loan Report Dashboard is to analyze loan applications
 <a href="https://github.com/shivaprasadreddyanukula47/Bank-Loan-Report/blob/main/bank%20loan%20sql.pdf">queries</a>
 ## Questions (KPIs / Insights)
 How many total loan applications were received?
+
 What is the total funded amount and total amount received?
+
 What percentage of loans are good vs. bad?
+
 How do loan applications and funded amounts trend month-to-month?
+
 Which loan purposes contribute the highest volumes and amounts?
+
 How does loan performance differ by employee length, grade, and home ownership?
+
 Which states show higher risk or higher loan activity?
+
 What is the average interest rate and average DTI across borrowers?
+
 What is the distribution of loans by term (36 vs 60 months)?
+
 Which loan statuses (Fully Paid, Charged Off, Current) dominate the portfolio?
 
